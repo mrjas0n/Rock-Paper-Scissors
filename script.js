@@ -1,5 +1,3 @@
-console.log("Hello world");
-
 // random number
 function GetRandomInt(max) {
     return Math.floor(Math.random() * max);
